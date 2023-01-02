@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/zombiesg/epic-free-games-notif",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@replit/database": "^2.0.2",
+    "@types/node": "^18.0.6",
+    "axios": "^1.2.2",
+    "epic-free-games": "^3.1.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.2.6"
+  }
+}
